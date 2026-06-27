@@ -1,0 +1,22 @@
+{
+  "virtual-cloning": {
+    "title": "Virtual Self Cloning - Secure & Private Digital Identity",
+    "description": "Discover how to build a fully private, empathetic digital twin of yourself. Speak with a warm companion to securely store your quirks, traits, and values locally on your device.",
+    "backgroundColor": "#FAF9F5",
+    "textColor": "#1A1A1A",
+    "containerBg": "#FFFFFF",
+    "containerBorderColor": "#EEEEEE",
+    "badgeColor": "#6366F1",
+    "content": "<h1>Secure Virtual Human Cloning & Empathic Mirroring</h1>\n<p>Welcome to the forefront of private, secure digital cloning. The Virtual Self application allows humans to reflect safely in a local vault. We employ highly advanced generative AI to understand your unique cadence, vocabulary, core values, and life narratives.</p>\n<h2>Local First & Offline Guarded</h2>\n<p>Unlike other platforms that immediately ingest your dialogue into centralized cloud datasets, Virtual Self ensures absolute client-side secrecy. All your stories, vulnerabilities, and traits reside only in your browser until you explicitly request a Cross-Device Sync.</p>\n<h2>A Digital Bridge to Tomorrow</h2>\n<p>Our empathetic dialogue companion gets to know you through slow, deliberate questions. When formed, your digital copy serves as a respectful proxy to connect with other curious human representations globally.</p>"
+  },
+  "privacy-first-ai": {
+    "title": "Privacy-First Artificial Intelligence Companionship",
+    "description": "A private AI workspace designed for deep human reflection. Own your digital consciousness with local encryption and anonymous model alignment.",
+    "backgroundColor": "#0A0A0B",
+    "textColor": "#E4E4E7",
+    "containerBg": "#141416",
+    "containerBorderColor": "#27272A",
+    "badgeColor": "#10B981",
+    "content": "<h1>Privacy-First AI & Zero Tracker Philosophy</h1>\n<p>In a hyper-connected world, privacy is often compromised. Virtual Self presents an alternative: an elegant, serene sandbox where you can converse with zero fear of data misuse. Conversations feed directly into your localized personality profile without tracking your real-world identity.</p>\n<h2>Advanced Model Anonymization</h2>\n<p>Our server-side AI uses conversation context strictly to enhance dialogue fluency, fully decoupled from user identifiers. Build connections with digital copies in future spaces without exposing sensitive personal trails.</p>"
+  }
+}

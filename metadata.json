@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Self Creator",
+  "description": "An AI-powered conversation builder to create, refine, and sync a digital virtual version of yourself with extreme privacy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
